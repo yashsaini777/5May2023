@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "AlexBrush";
+    src: url("../fonts/AlexBrush-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Aller";
+    src: url("../fonts/Aller_Rg.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Cantarell";
+    src: url("../fonts/Cantarell-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "KaushanScript";
+    src: url("../fonts/KaushanScript-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: "Nobile";
+    src: url("../fonts/Nobile-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "PTS76F";
+    src: url("../fonts/PTS76F.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Quicksand";
+    src: url("../fonts/Quicksand-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: "Rubik";
+    src: url("../fonts/Rubik-Regular.ttf") format("truetype");
+}
+
+
+article{border-bottom: 1px solid black;}
+
+.a1{color: blue; font-family: "AlexBrush", Arial, Helvetica, sans-serif;}
+.a2{color: green; font-family: "Aller", Arial, Helvetica, sans-serif;}
+.a3{color: red;font-family: "Cantarell", Arial, Helvetica, sans-serif;}
+.a4{color: pink;font-family: "KaushanScript", Arial, Helvetica, sans-serif;}
+.a5{color: yellowgreen;font-family: "Nobile", Arial, Helvetica, sans-serif;}
+.a6{color: violet;font-family: "PTS76F", Arial, Helvetica, sans-serif;}
+.a7{color: skyblue;font-family: "Quicksand", Arial, Helvetica, sans-serif;}
+.a8{color: maroon; font-family: "Rubik", Arial, Helvetica, sans-serif;}
